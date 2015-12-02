@@ -14,6 +14,7 @@
         <h1>Algoritmo</h1>
         <h1>GITHUB Y HEROKU</h1>
         <h1>6 CIS</h1>
+        <h1>Análisis y Diseño de Sistemas</h1>
         <hr>
         <form name="forma">
             <div class="form-group" ng-class="{'has-error': forma.inputA.$invalid, 'has-success': forma.inputA.$valid}">
